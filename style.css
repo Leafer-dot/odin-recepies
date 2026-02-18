@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Handwriting', Georgia, Times, sans-serif;
+    width: 650px;
+    margin: 0 auto;
+}
+li{
+    font-style: italic;
+}
+.recepies-list{
+    color: aqua;
+    background-color: gold;
+    width: 150px;
+}
+
+.odin{
+    color: rgb(138, 134, 65);
+    text-align: center;
+}
+
+.chicken-katsu{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.katsu-image{
+    margin-left: 100px;
+}
+
+.ingredient-list{
+    font-weight: 600;
+    color: blueviolet;
+}
+.ingredients{
+    color: gold;
+}
+
+.steps-box{
+    border: 10px double black;
+    border-bottom-color: blue;
+    border-right-color: red;
+    border-left-color: green;
+    box-sizing: border-box;
+    width: 700px;
+    height: auto;
+    padding: 25px;
+    color: chocolate;
+}
